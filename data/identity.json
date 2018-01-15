@@ -1,0 +1,52 @@
+[
+	{
+		"firstname": "Ryan",
+		"lastname": "McComb",
+		"email": "rmccomb@mailinator.com"
+	},
+	{
+		"firstname": "Shawn",
+		"lastname": "Barrigen",
+		"email": "sbarrigen@mailinator.com"
+	},
+	{
+		"firstname": "Diana",
+		"lastname": "DePalentis",
+		"email": "didepelantis@mailinator.com"
+	},
+	{
+		"firstname": "Teddy",
+		"lastname": "Winters",
+		"email": "twinters@mailinator.com"
+	},
+	{
+		"firstname": "Tejal",
+		"lastname": "Patil",
+		"email": "tpatil@mailinator.com"
+	},
+	{
+		"firstname": "Sumit",
+		"lastname": "Gupta",
+		"email": "sgupta@mailinator.com"
+	},
+	{
+		"firstname": "Rachel",
+		"lastname": "Geller",
+		"email": "rgeller@mailinator.com"
+	},
+	{
+		"firstname": "Rhonda",
+		"lastname": "McComb",
+		"email": "rhmccomb@mailinator.com"
+	},
+	{
+		"firstname": "Ted",
+		"lastname": "Burke",
+		"email": "tburke@mailinator.com"
+	},
+	{
+		"firstname": "Sanjana",
+		"lastname": "Phadke",
+		"email": "sphadke@mailinator.com"
+	}
+]

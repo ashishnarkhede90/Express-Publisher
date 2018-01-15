@@ -1,0 +1,24 @@
+{
+  "name": "smartcoder",
+  "version": "1.0.0",
+  "description": "SmartCoder - a TopCoder clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "RabbitMQ",
+    "Salesforce"
+  ],
+  "author": "Ashish N",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "body-parser": "^1.16.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24"
+  }
+}
